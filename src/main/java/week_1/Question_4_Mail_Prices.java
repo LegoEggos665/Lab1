@@ -60,10 +60,12 @@ public class Question_4_Mail_Prices {
         * at the top of the file, which contain the current prices for mailing machinable letters,
         * and the current non-machinable surcharge.
         */
-
+        if (isRectangle && isFlat){
+            return MACHINABLE_LETTER_PRICE;
+        }else {
+            return MACHINABLE_LETTER_PRICE + NON_MACHINABLE_SURCHARGE;
+        }
         //TODO delete this line and replace with your own code
-        return 0;   // This is the wrong answer, but Java requires us to return something.
-
     }
     
   

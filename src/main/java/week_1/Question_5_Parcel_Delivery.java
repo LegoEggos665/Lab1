@@ -48,8 +48,12 @@ public class Question_5_Parcel_Delivery {
         // TODO return false if parcel weight is 0 or less
         // TODO return false if parcel weight is more than MAX_WEIGHT. Use the MAX_WEIGHT variable in this code
         // TODO return true if the parcel weight is more than 0 and less than or equal to MAX_WEIGHT. Use the MAX_WEIGHT variable in this code
+        if (weight <= 0 || weight > MAX_WEIGHT){
+            return false;
+        }else {
 
-        return false;  // Replace this with your code
+            return true;  // Replace this with your code
+        }
     }
     
     
@@ -57,7 +61,15 @@ public class Question_5_Parcel_Delivery {
 
         // TODO assume parcel is a valid weight. Figure out price to ship this parcel.
         //  If the parcel is not a valid weight, return 0.
-
+        if (weight <=30 && weight > 20){
+            return weight * 1.15;
+        } else if (weight <= 20 && weight >10) {
+            return weight * 1.55;
+        } else if (weight <=10 && weight > 0) {
+            return weight * 2.15;
+        }else {
+            return 0;
+        }
         //  Parcel price rates:
         //  Up to and including 10 pounds: $2.15 per pound
         //  Up to and including 20 pounds: $1.55 per pound
@@ -67,7 +79,7 @@ public class Question_5_Parcel_Delivery {
         // For example, for a 15 pound parcel, the weight variable will be 15. The price rate is 1.55 per pound (up to and including 20 pounds)
         // So the price is 15 * 1.55 = 23.25.
 
-        return 0;  // Replace this with your code
+
 
     }
     

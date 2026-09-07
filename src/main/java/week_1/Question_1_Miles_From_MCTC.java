@@ -18,7 +18,7 @@ public class Question_1_Miles_From_MCTC {
 
     public static void main(String[] args) {
 
-        double miles = doubleInput("How many miles do you live from MCTC? ");
+        double miles = positiveDoubleInput("How many miles do you live from MCTC? ");
 
         String response = milesFromMCTC(miles);
 
@@ -30,12 +30,19 @@ public class Question_1_Miles_From_MCTC {
     public static String milesFromMCTC(double miles){
 
         // TODO Use if - else if - else statements to return the correct String
-
+        if (miles < 10){
+            String response = "You live less than 10 miles from MCTC.";
+            return response;
+        } else if (miles == 10) {
+            String response = "You live exactly 10 miles from MCTC.";
+            return response;
+        }else {
+            String response = "You live more than 10 miles away from MCTC.";
+            return response;
+        }
         // Return  "You live more than 10 miles from MCTC" if they live more than 10 miles away,
         // Return  "You live exactly 10 miles from MCTC" if they live exactly 10 miles away,
         // Return  "You live less than 10 miles from MCTC" if they live less than 10 miles away.
-        
-        return null; // TODO delete this line and replace with your code.
     }
     
     

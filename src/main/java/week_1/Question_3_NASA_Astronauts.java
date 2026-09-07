@@ -42,12 +42,12 @@ public class Question_3_NASA_Astronauts {
         // AND they must be able to swim 75 yards or more. )
         // return true if the user meets these qualifications
         // return false otherwise
-
+        if (height >= 58 && height <= 76 && swimDistance >= 75){
+          return true;
+        }else {
+            return false;
+        }
         // TODO remove this line and replace with your own code
-
-        return false;
-
-
     }
 
 }

@@ -9,7 +9,6 @@ import static input.InputUtils.stringInput;
  * You should accept answers in any case, but the spelling and spacing must be correct.
  *
  * (Tip: the answer is "Pong" https://en.wikipedia.org/wiki/Pong)
- *
  */
 
 public class Question_2_Quiz_Question {
@@ -35,9 +34,11 @@ public class Question_2_Quiz_Question {
         // TODO check that the user's answer is "Pong" in any letter case.
         // Case doesn't matter, so "pong" or "PONG" or any other variation in case is the correct answer.
         // Remember that using == to compare Strings may not do what you expect it to do!
-        
+        if (answer.equalsIgnoreCase("pong")){
+            return true;
+        }else {
         // TODO replace this line with your own code
-        return false;
+            return false;
     }
     
 }

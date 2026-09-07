@@ -44,9 +44,13 @@ public class Question_6_Windows_10_Install {
         // The two valid currentOS values are the exact Strings "Windows 7" or "Windows 8"
         // Return true if the computer can be upgraded
         // Return false if the computer can't be upgraded.
+        if ((currentOS.equalsIgnoreCase("windows 7") || currentOS.equalsIgnoreCase("windows 8"))
+        && processorSpeed >= 1 && ram >=2){
+            return true;
+        }else {
+            return false;
+        }
 
-        // TODO remove this line, and replace with your own code.
-        return false;
 
     }
     
