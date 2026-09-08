@@ -22,21 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f843e1bd-82f4-4db8-bae4-5443586cd734" name="Default" comment="Renumber test file name">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__edu_minneapolis_input_utils_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="f843e1bd-82f4-4db8-bae4-5443586cd734" name="Default" comment="Lab1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Auto Grader Wk 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week_1/Question_1_Miles_From_MCTC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_1/Question_1_Miles_From_MCTC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/week_1/Question_2_Quiz_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_1/Question_2_Quiz_Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week_1/Question_3_NASA_Astronauts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_1/Question_3_NASA_Astronauts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week_1/Question_4_Mail_Prices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_1/Question_4_Mail_Prices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week_1/Question_5_Parcel_Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_1/Question_5_Parcel_Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week_1/Question_6_Windows_10_Install.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_1/Question_6_Windows_10_Install.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,18 +60,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "LegoEggos665"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LegoEggos665&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "http://github.com/LegoEggos665/Lab1",
-    "accountId": "e85ad14a-c4f9-48a0-95d1-ec2b836f21cb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;http://github.com/LegoEggos665/Lab1&quot;,
+    &quot;accountId&quot;: &quot;e85ad14a-c4f9-48a0-95d1-ec2b836f21cb&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/week_1/Question_2_Quiz_Question.java" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -95,32 +83,32 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="1PJMXbBWEheE7osjEJK7ieQqOZz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Question_1_Miles_From_MCTC.executor": "Run",
-    "Application.Question_3_NASA_Astronauts.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Question_1_Miles_From_MCTC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question_3_NASA_Astronauts.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="week_1" />
@@ -137,7 +125,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_3_NASA_Astronauts">
+  <component name="RunManager" selected="Application.Question_5_Parcel_Delivery">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -312,41 +300,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question_4_Mail_Prices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_1.Question_4_Mail_Prices" />
+      <module name="Java_Auto_Grader" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_5_Parcel_Delivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_1.Question_5_Parcel_Delivery" />
+      <module name="Java_Auto_Grader" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_4_MailPrices_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java Auto Grader Wk 1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week_1" />
-      <option name="MAIN_CLASS_NAME" value="week_1.Question_4_MailPrices_Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_4_MailPrices_Test.testCalculateStampPriceUsesConstants" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java Auto Grader Wk 1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week_1" />
-      <option name="MAIN_CLASS_NAME" value="week_1.Question_4_MailPrices_Test" />
-      <option name="METHOD_NAME" value="testCalculateStampPriceUsesConstants" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -398,19 +381,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.Question_4_Mail_Prices" />
+      <item itemvalue="Application.Question_5_Parcel_Delivery" />
       <item itemvalue="Application.Question_1_Miles_From_MCTC" />
       <item itemvalue="Application.Question_3_NASA_Astronauts" />
-      <item itemvalue="JUnit.Question_4_MailPrices_Test.testCalculateStampPriceUsesConstants" />
-      <item itemvalue="JUnit.Question_4_MailPrices_Test" />
       <item itemvalue="JUnit.week_1 in Java Auto Grader Wk 1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_3_NASA_Astronauts" />
+        <item itemvalue="Application.Question_5_Parcel_Delivery" />
+        <item itemvalue="Application.Question_4_Mail_Prices" />
         <item itemvalue="Application.Question_1_Miles_From_MCTC" />
+        <item itemvalue="Application.Question_3_NASA_Astronauts" />
         <item itemvalue="JUnit.week_1 in Java Auto Grader Wk 1" />
-        <item itemvalue="JUnit.Question_4_MailPrices_Test" />
-        <item itemvalue="JUnit.Question_4_MailPrices_Test.testCalculateStampPriceUsesConstants" />
       </list>
     </recent_temporary>
   </component>
@@ -729,7 +712,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Comments" />
     <MESSAGE value="Class checklist" />
     <MESSAGE value="Renamed test package" />
     <MESSAGE value="Added test file names to grade schema" />
@@ -754,7 +736,8 @@
     <MESSAGE value="workspace" />
     <MESSAGE value="Clarify instructions, provide example, more tests for non-integer weights and larger example MAX_WEIGHT" />
     <MESSAGE value="Split tests into more smaller tests, ensure using global variables in code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Split tests into more smaller tests, ensure using global variables in code" />
+    <MESSAGE value="Lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

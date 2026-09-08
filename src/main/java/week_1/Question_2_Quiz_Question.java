@@ -36,9 +36,12 @@ public class Question_2_Quiz_Question {
         // Remember that using == to compare Strings may not do what you expect it to do!
         if (answer.equalsIgnoreCase("pong")){
             return true;
-        }else {
-        // TODO replace this line with your own code
+        } else {
             return false;
+        }
+
+
+
     }
     
 }
