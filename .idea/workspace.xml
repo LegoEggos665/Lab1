@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f843e1bd-82f4-4db8-bae4-5443586cd734" name="Default" comment="Lab1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week_1/Question_2_Quiz_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_1/Question_2_Quiz_Question.java" afterDir="false" />
-    </list>
+    <list default="true" id="f843e1bd-82f4-4db8-bae4-5443586cd734" name="Default" comment="Lab1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +93,8 @@
   &quot;keyToString&quot;: {
     &quot;Application.Question_1_Miles_From_MCTC.executor&quot;: &quot;Run&quot;,
     &quot;Application.Question_3_NASA_Astronauts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question_4_Mail_Prices.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question_5_Parcel_Delivery.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
@@ -125,7 +124,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_5_Parcel_Delivery">
+  <component name="RunManager">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
